@@ -1,2 +1,1 @@
-
-{Instagram Story Features}(https://sammywysor.github.io/Instagram-Stories-Feauture/)
+[Instagram Story Features](https://sammywysor.github.io/Instagram-Stories-Feauture/)
