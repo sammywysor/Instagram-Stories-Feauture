@@ -1,1 +1,1 @@
-[Instagram Story Features (click on the link)](https://sammywysor.github.io/Instagram-Stories-Feauture/)
+[Instagram Story Features (click Me)](https://sammywysor.github.io/Instagram-Stories-Feauture/)
